@@ -1,7 +1,7 @@
 
 # BID4R Project Backlog
 
-## Sprint 1 (Sep 17 – Sep 26) - **Done**
+## Sprint 1 (Sep 17 – Sep 26) - Done
 **Focus:** Project setup and planning.
 
 ### Tasks Completed:
