@@ -16,12 +16,12 @@
 
 ### Tasks:
 1. **Research existing and alternative components (Mohammed):** In Progress
-2. Verify if the components chosen (PowerBoost, proximity sensors, etc.) are suitable and if new ones are needed.
-3. **Perform calculations (Team):**  
+  Verify if the components chosen (PowerBoost, proximity sensors, etc.) are suitable and if new ones are needed.
+2. **Perform calculations (Team):** In Progress    
    Conduct power-flow calculations to check system efficiency.
-4. **Design initial 3D charging station structure (Turki):**  In Progress
+3. **Design initial 3D charging station structure (Turki):**  In Progress
    Ensure it aligns with the robot’s dimensions and has room for the cooling mechanism.
-5. **Research LiPo battery safety and regulations (Belal):**  In Progress
+4. **Research LiPo battery safety and regulations (Belal):**  In Progress
    Ensure the LiPo battery is compliant with safety standards and meets project requirements.
 
 ---
