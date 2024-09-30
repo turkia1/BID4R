@@ -43,7 +43,7 @@
 
 ---
 
-## Sprint 4 (Oct 29 – Nov 7)**To Do**
+## Sprint 4 (Oct 29 – Nov 7)- **To Do**
 **Focus:** Component integration and initial testing.
 
 ### Tasks:
@@ -58,7 +58,7 @@
 
 ---
 
-## Sprint 5 (Nov 12 – Nov 21)**To Do**
+## Sprint 5 (Nov 12 – Nov 21)- **To Do**
 **Focus:** Full system testing and optimization.
 
 ### Tasks:
@@ -77,7 +77,7 @@
 
 ---
 
-## Sprint 6 (Nov 26 – Dec 5)**To Do**
+## Sprint 6 (Nov 26 – Dec 5)- **To Do**
 **Focus:** Final preparations and presentations.
 
 ### Tasks:
