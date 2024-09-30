@@ -15,13 +15,13 @@
 **Focus:** Research and component verification.
 
 ### Tasks:
-1. **Research existing and alternative components (Mohammed): In Progress** 
-   Verify if the components chosen (PowerBoost, proximity sensors, etc.) are suitable and if new ones are needed.
-2. **Perform calculations (Team):**  
+1. **Research existing and alternative components (Mohammed):** In Progress
+2. Verify if the components chosen (PowerBoost, proximity sensors, etc.) are suitable and if new ones are needed.
+3. **Perform calculations (Team):**  
    Conduct power-flow calculations to check system efficiency.
-3. **Design initial 3D charging station structure (Turki):**  In Progress
+4. **Design initial 3D charging station structure (Turki):**  In Progress
    Ensure it aligns with the robot’s dimensions and has room for the cooling mechanism.
-4. **Research LiPo battery safety and regulations (Belal):**  In Progress
+5. **Research LiPo battery safety and regulations (Belal):**  In Progress
    Ensure the LiPo battery is compliant with safety standards and meets project requirements.
 
 ---
