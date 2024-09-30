@@ -15,7 +15,7 @@
 **Focus:** Research and component verification.
 
 ### Tasks:
-1. **Research existing and alternative components (Mohammed):**  In Progress
+1. **Research existing and alternative components (Mohammed): In Progress** 
    Verify if the components chosen (PowerBoost, proximity sensors, etc.) are suitable and if new ones are needed.
 2. **Perform calculations (Team):**  
    Conduct power-flow calculations to check system efficiency.
